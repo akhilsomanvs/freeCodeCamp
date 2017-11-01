@@ -1,0 +1,37 @@
+body {
+    font-family: helvetica;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 0;
+    margin: 0;
+    background-color: #E6E6E6;
+}
+
+img {
+    max-width:inherit;
+    max-height: inherit;
+}
+
+
+#main_text_qoute{
+    font-style: oblique;
+}
+
+.para {
+    margin-top: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background-color: #D4D4D4;
+    justify-content: center;
+}
+
+.footer {
+    background-color: white;
+    line-height: 50px;
+    height: 50px;
+    width: 100%;
+    margin-top: 5px;
+    border-top: 1px solid #D1D1D1;
+    justify-content:center;
+    align-items:center;
+}
